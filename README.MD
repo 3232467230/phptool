@@ -1,5 +1,13 @@
 ## 自用工具库API
 ***
+>引用
+```php
+require_once("tool.php");
+```
+>MD5加密
+```php
+password(str,key)
+```
 >读取文件
 ```php
 FileGet(path)
